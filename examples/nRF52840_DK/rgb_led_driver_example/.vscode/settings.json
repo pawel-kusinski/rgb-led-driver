@@ -1,0 +1,12 @@
+{
+    "nrf-connect.applications": [
+        "${workspaceFolder}"
+    ],
+    "files.associations": {
+        "rgb_led_driver.h": "c",
+        "stdbool.h": "c",
+        "zephyr.h": "c",
+        "math.h": "c",
+        "shell_commands.h": "c"
+    }
+}

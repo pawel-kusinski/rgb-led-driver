@@ -1,0 +1,3 @@
+examples/nRF52840_DK/rgb_led_driver_example/build/*
+**/html
+**/latex
